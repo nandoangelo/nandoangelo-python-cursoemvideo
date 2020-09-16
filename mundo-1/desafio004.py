@@ -20,5 +20,4 @@ print('Está capitalizado?\033[33m', algo.istitle(), end=' \033[31m... Fim!\n')
 '''
  Nosso analisador de Strings não ficou mais bonito 
  com cores?
-
 '''
