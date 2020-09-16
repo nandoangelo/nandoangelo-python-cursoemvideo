@@ -22,4 +22,5 @@ print('Esta é a sua data de nascimento:\n'
 '''
  Agora inserimos, além das variáveis, montamos nosso próprio 
  esquema de cores para colorir as mensagens exibidas no terminal.
+ funcionou.
 '''
